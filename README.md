@@ -2,7 +2,7 @@
 👀 This is my GitHub for personal projects. Included:
 
 - Python-based Fire Emblem 7 and 8 support tracking application
-- Reborn and Rejuvenation game web walkthroughs - available on [my github pages site](bigjra.github.io)
+- Reborn and Rejuvenation game web walkthroughs - available on [my github pages site](https://bigjra.github.io)
 
 
 
