@@ -5,9 +5,10 @@
 
 My projects:
 
-- Python-based Fire Emblem 7 and 8 support tracking application for browsers
-- Reborn and Rejuvenation game web walkthroughs - available on [my github pages site](https://bigjra.github.io)
-
+- [Ruby-based tool to assist RMXP game developers merge their map files for game-dev optimization](https://github.com/BIGJRA/rmxpMapMerger)
+- [Reborn and Rejuvenation game web walkthroughs](https://github.com/BIGJRA/BIGJRA.github.io) - view it on [my github pages site](https://bigjra.github.io)
+- [Python-based Fire Emblem 7 and 8 support tracking application for desktop](https://github.com/BIGJRA/Fire-Emblem-Support-Tracker)
+- [My Python answers to the AdventOfCode 2022 competitive programming challenge](https://github.com/BIGJRA/AdventOfCode2022)
 
 
 <!---
