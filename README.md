@@ -1,7 +1,11 @@
-👋 Hi, I’m Jake Annis, aka @BIGJRA. 📫 You can reach me at bigjra441@gmail.com!
-👀 This is my GitHub for personal projects. Included:
+👋 Hi, I’m Jake Annis, aka @BIGJRA. [My LinkedIn Profile](https://www.linkedin.com/in/jacob-annis/)
 
-- Python-based Fire Emblem 7 and 8 support tracking application
+📫 You can reach me at bigjra441@gmail.com!
+👀 This is my GitHub for my open-source software projects.
+
+My projects:
+
+- Python-based Fire Emblem 7 and 8 support tracking application for browsers
 - Reborn and Rejuvenation game web walkthroughs - available on [my github pages site](https://bigjra.github.io)
 
 
