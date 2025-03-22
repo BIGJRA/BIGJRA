@@ -9,9 +9,9 @@ My public personal projects include:
 
 I have also participated in and completed the Advent of Code Data Structure and Algorithms challenge three years in a row:
 
-- [2022 (Python)](https://github.com/BIGJRA/AdventOfCode2022)
-- [2023 (Python)](https://github.com/BIGJRA/AdventOfCode2023)
 - [2024 (JavaScript)](https://github.com/BIGJRA/AdventOfCode2024)
+- [2023 (Python)](https://github.com/BIGJRA/AdventOfCode2023)
+- [2022 (Python)](https://github.com/BIGJRA/AdventOfCode2022)
 
 <!---
 BIGJRA/BIGJRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
