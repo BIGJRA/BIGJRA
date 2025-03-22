@@ -1,15 +1,17 @@
-👋 Hi, I’m Jake Annis, aka @BIGJRA. [My LinkedIn Profile](https://www.linkedin.com/in/jacob-annis/)
+👋 Hi, I’m Jake Annis, aka @BIGJRA. I'm a Software Engineer with over three years of Industry Experience! Check out [my LinkedIn Profile](https://www.linkedin.com/in/jacob-annis/)!
 
-📫 You can reach me at bigjra441@gmail.com!
-👀 This is my GitHub for my open-source software projects.
+📫 You can reach me at bigjra441@gmail.com.
 
-My projects:
+My public personal projects include:
 
+- [Reborn and Rejuvenation game web walkthroughs with dynamic information pulled from game files](https://github.com/BIGJRA/BIGJRA.github.io) - view [the site: github pages](https://bigjra.github.io)
 - [Ruby-based tool to assist RMXP game developers merge their map files for game-dev optimization](https://github.com/BIGJRA/rmxpMapMerger)
-- [Reborn and Rejuvenation game web walkthroughs](https://github.com/BIGJRA/BIGJRA.github.io) - view it on [my github pages site](https://bigjra.github.io)
-- [Python-based Fire Emblem 7 and 8 support tracking application for desktop](https://github.com/BIGJRA/Fire-Emblem-Support-Tracker)
-- [My Python answers to the AdventOfCode 2022 competitive programming challenge](https://github.com/BIGJRA/AdventOfCode2022)
 
+I have also participated in and completed the Advent of Code Data Structure and Algorithms challenge three years in a row:
+
+- [2022 (Python)](https://github.com/BIGJRA/AdventOfCode2022)
+- [2023 (Python)](https://github.com/BIGJRA/AdventOfCode2023)
+- [2024 (JavaScript)](https://github.com/BIGJRA/AdventOfCode2024)
 
 <!---
 BIGJRA/BIGJRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
